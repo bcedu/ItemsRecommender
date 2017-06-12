@@ -1,0 +1,6 @@
+To execute the recommender type:
+	python3.5 Recommender.py [args]
+
+See help with:
+	python3.5 Recommender.py -h
+	python3.5 Loader.py -h
